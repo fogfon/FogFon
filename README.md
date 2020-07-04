@@ -1,5 +1,5 @@
 # Über uns
-Das ist die, im Moment, offizielle Seite von FogFon.eu.
+Das ist die, im Moment, offizielle Seite von FogFon.eu
 
 # Unser Ziel 
 ist eine erhebliche Verbesserung von Datenschutz, Datensicherheit und Datensparsamkeit auf Smartphones. 

@@ -6,7 +6,7 @@ ist eine erhebliche Verbesserung von Datenschutz, Datensicherheit und Datenspars
 
 # FogFon 
 entwickelt hierfür Lösungen für Android Smartphones auf Basis von LineageOS mit ergänzenden Apps.  <br>
-Für Administratoren entwickeln wir kontinuierlich ein Ubuntu Live Wartungs System.
+Für uns, sowie evtl. andere Administratoren entwickeln wir kontinuierlich ein Ubuntu Live Wartungs System.
 
 # LineageOS???
 LineageOS ist ein freies Betriebssytem mit Sicherheitsrelevanten Funktionen für diverse Android-Smartphones.  <br>

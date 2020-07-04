@@ -2,7 +2,7 @@
 Das ist die, im Moment, offizielle Seite von FogFon.eu.
 
 # Unser Ziel 
-ist Datenschutz, Datensicherheit und Datensparsamkeit auf Smartphones erheblich zu verbessern.
+ist eine erhebliche Verbesserung von Datenschutz, Datensicherheit und Datensparsamkeit auf Smartphones. 
 
 # FogFon 
 entwickelt hierfür Lösungen für Android Smartphones auf Basis von LineageOS mit ergänzenden Apps.  <br>

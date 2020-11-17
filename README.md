@@ -1,5 +1,5 @@
 # Über uns
-Das ist die, im Moment, offizielle Seite von FogFon.eu
+Dies ist im Moment die offizielle Seite von FogFon.eu
 
 # Unser Ziel 
 Eine erhebliche Verbesserung von Datenschutz, Datensicherheit und Datensparsamkeit auf Smartphones. 
@@ -9,7 +9,7 @@ entwickelt hierfür Lösungen für Android Smartphones auf Basis von LineageOS m
 Für uns, sowie evtl. andere Administratoren, entwickeln wir kontinuierlich ein Ubuntu Live Wartungs System.
 
 # LineageOS???
-LineageOS ist ein freies Betriebssytem mit Sicherheitsrelevanten Funktionen für diverse Android-Smartphones.  <br>
+LineageOS (LOS) ist ein freies Betriebssytem mit Sicherheitsrelevanten Funktionen für diverse Android-Smartphones.  <br>
 Die Basis von LOS ist das Android Open Source Project (AOSP).  <br>
 LineageOS kommt ohne Googleeigene Software aus, ohne Appstore, ohne Google Cloud Messaging.  <br>
 Dies reduziert Googles Macht über unser System enorm.  <br>
@@ -20,8 +20,15 @@ Auch erhält Google kaum noch direkte Informationen und Metadaten über uns.  <b
 Weil man es in Hinblick auf unser Ziel noch wesentlich verbessern kann.  <br>
 Und da LineageOS Open Source ist, ist dies auch möglich.
 
-# Und?
-Wir portieren unsere Optimierungen gerade auf die neueste LineageOS Version 17.1 für das BQ X/X Plus.  <br>
-Im Zuge dessen veröffentlichen wir unsere Arbeit.
+# Aktuell
+Wir portieren unsere Optimierungen auf das /e/ Betriebssystem https://doc.e.foundation/devices/zangya/.  <br>
+Auf /e/ funktioniert die Corona Warn App (CWA), diese soll ausführlich getestet und analysiert werden. <br>
+
+# /e/?
+Die Basis des /e/ Betriebssystem ist LineageOS mit Verbesserungen in Hinblick auf Datenschutz. <br>
+/e/ beinhaltet Googledienste auf Basis von freier Software https://github.com/microg, <br>
+so auch das Exposure Notification Framework, welches die CWA benötigt. 
+
+
 
 

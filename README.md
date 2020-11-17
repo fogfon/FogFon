@@ -26,7 +26,7 @@ Auf /e/ funktioniert die Corona Warn App (CWA), diese soll ausführlich getestet
 
 # /e/?
 Die Basis des /e/ Betriebssystem ist LineageOS mit Verbesserungen in Hinblick auf Datenschutz. <br>
-/e/ beinhaltet Googledienste auf Basis von freier Software https://github.com/microg, <br>
+/e/ beinhaltet Googledienste auf Basis freier Software https://github.com/microg, <br>
 so auch das Exposure Notification Framework, welches die CWA benötigt. 
 
 

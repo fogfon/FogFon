@@ -31,7 +31,7 @@ Monitoring and Integration of Hardware, like Powerstations  <br>
 Reviews with pros and cons and detailed reports of tested Hardware
 
 ### Direct links to projects
-Raspberry Pi setup <br>
+<a href="https://github.com/fogfon/Raspberry-Pi-Basic-Hotspot-Setup" title="Raspberry Pi Basic Hotspot Setup">Raspberry Pi Basic Hotspot Setup<a> <br>
 Home Assistant setup with hassio-ecoflow integration <br>
 Ecoflow River and Delta Max Testing <br>
 Research on communication of EcoFlow App and EcoFlow Units to their servers 

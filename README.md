@@ -1,34 +1,41 @@
-### Über uns
-Dies ist im Moment die offizielle Seite von FogFon.eu
+### About Us
+We reorganize ourselves and we are restarting. <br>
+At the moment, this is the official site of FogFon
 
-### Unser Ziel 
-Eine erhebliche Verbesserung von Datenschutz, Datensicherheit und Datensparsamkeit auf Smartphones. 
+### Motivation 
+Our aim is to provide Open Source solutions for managing products (hardware) with focus on <br>
+- privacy
+- security
+- efficiency
+- usuability (automation)
 
 ### FogFon 
-entwickelt hierfür Lösungen für Android Smartphones auf Basis von LineageOS mit ergänzenden Apps.  <br>
-Für uns, sowie evtl. andere Administratoren, entwickeln wir kontinuierlich ein Ubuntu Live Wartungs System.
+was started, to bring privacy on smartphones.  <br>
+There are a lot of good solutions now depending on your needs, like
+- <a href="https://e.foundation/" title="/e/">/e/</a>
+- <a href="https://calyxos.org/" title="CalyxOS">CalyxOS<a>
+- <a href="https://grapheneos.org" title="GrapheneOS">GrapheneOS<a>
 
-### LineageOS???
-LineageOS (LOS) ist ein freies Betriebssytem mit Sicherheitsrelevanten Funktionen für diverse Android-Smartphones.  <br>
-Die Basis von LOS ist das Android Open Source Project (AOSP).  <br>
-LineageOS kommt ohne Googleeigene Software aus, ohne Appstore, ohne Google Cloud Messaging.  <br>
-Dies reduziert Googles Macht über unser System enorm.  <br>
-Zum Beispiel kann der Appstore Apps auf Deinem Phone deinstallieren/manipulieren.  <br>
-Auch erhält Google kaum noch direkte Informationen und Metadaten über uns.  <br>
+Now we switch our research to the internet of things. <br>
+We want to share our knowledge and findings in new projects. 
 
-### OK, warum nehmen wir dann nicht einfach LineageOS?
-Weil man es in Hinblick auf unser Ziel noch wesentlich verbessern kann.  <br>
-Und da LineageOS Open Source ist, ist dies auch möglich.
+### Transparency
+FogFon is a registered trademark in EU
 
-### Aktuell
-Wir portieren unsere Optimierungen auf das /e/ Betriebssystem https://doc.e.foundation/devices/zangya/.  <br>
-Auf /e/ funktioniert die Corona Warn App (CWA), diese soll ausführlich getestet und analysiert werden. <br>
+### Projects
+Raspberry Pi installation manual as a router with onboard wifi as hotspot for <br>
+- Smart home software like Home Assistant <br>
+- Wireshark or Mitmproxy for analyzing (iot) traffic <br>
 
-### /e/?
-Die Basis des /e/ Betriebssystem ist LineageOS mit Verbesserungen in Hinblick auf Datenschutz. <br>
-/e/ beinhaltet Googledienste auf Basis freier Software https://github.com/microg, <br>
-so auch das Exposure Notification Framework, welches die CWA benötigt. 
+Monitoring and Integration of Hardware, like Powerstations  <br>
+Reviews with pros and cons and detailed reports of tested Hardware
 
-
-
-
+### Direct links to projects
+Raspberry Pi setup <br>
+Home Assistant setup with hassio-ecoflow integration <br>
+Ecoflow River and Delta Max Testing <br>
+Research on communication of EcoFlow App and EcoFlow Units to their servers 
+### !!!!!! Warning !!!!!
+With latest firmware hassio-ecoflow integration does not work any longer for Delta Max and other EcoFlow devices <br>
+If their decission remains, only bluetooth devices like Delta 2 and Delta Pro will (perhaps) work with hassio-ecoflow <br>
+<a href="https://github.com/vwt12eh8/hassio-ecoflow/discussions/58" title="Developer Statement">Developer Statement</a>

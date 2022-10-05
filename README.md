@@ -1,6 +1,6 @@
 ### About Us
 We reorganize ourselves and we are restarting. <br>
-At the moment, this is the official site of FogFon
+At the moment, this is the official site of FogFon.
 
 ### Motivation 
 Our aim is to provide Open Source solutions for managing products (hardware) with focus on <br>
@@ -27,15 +27,16 @@ Raspberry Pi installation manual as a router with onboard wifi as hotspot for <b
 - Smart home software like Home Assistant <br>
 - Wireshark or Mitmproxy for analyzing (iot) traffic <br>
 
-Monitoring and Integration of Hardware, like Powerstations  <br>
-Reviews with pros and cons and detailed reports of tested Hardware
+Monitoring and integration of hardware, like powerstations.  <br>
+Short reviews with pros and cons of tested hardware.
+Detailed reports of tested hardware.
 
 ### Direct links to projects
-<a href="https://github.com/fogfon/Raspberry-Pi-Basic-Hotspot-Setup" title="Raspberry Pi Basic Hotspot Setup">Raspberry Pi Basic Hotspot Setup<a> <br>
-Home Assistant setup with hassio-ecoflow integration <br>
-Ecoflow River and Delta Max Testing <br>
-Research on communication of EcoFlow App and EcoFlow Units to their servers 
+<a href="https://github.com/fogfon/Raspberry-Pi-Basic-Hotspot-Setup" title="Raspberry Pi basic Hotspot setup">Raspberry Pi basic Hotspot setup.<a> <br>
+Home Assistant with hassio-ecoflow integration setup.<br>
+Ecoflow River and Delta Max testing. <br>
+Research on communication of EcoFlow App and EcoFlow units to their servers. 
 ### !!!!!! Warning !!!!!
-With latest firmware hassio-ecoflow integration does not work any longer for Delta Max and other EcoFlow devices <br>
-If their decission remains, only bluetooth devices like Delta 2 and Delta Pro will (perhaps) work with hassio-ecoflow <br>
+With latest firmware hassio-ecoflow integration does not work any longer for Delta Max and other EcoFlow devices. <br>
+If their decission remains, only bluetooth devices like Delta 2 and Delta Pro will (perhaps) work with hassio-ecoflow. <br>
 <a href="https://github.com/vwt12eh8/hassio-ecoflow/discussions/58" title="Developer Statement">Developer Statement</a>

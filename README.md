@@ -32,8 +32,8 @@ Short reviews with pros and cons of tested hardware.
 Detailed reports of tested hardware.
 
 ### Direct links to projects
-<a href="https://github.com/fogfon/Raspberry-Pi-Basic-Hotspot-Setup" title="Raspberry Pi basic Hotspot setup">Raspberry Pi basic Hotspot setup.<a> <br>
-Home Assistant with hassio-ecoflow integration setup.<br>
+<a href="https://github.com/fogfon/Raspberry-Pi-Basic-Hotspot-Setup" title="Raspberry Pi basic Hotspot setup">Raspberry Pi basic Hotspot setup<a> <br>
+<a href="https://github.com/fogfon/Home-Assistant-with-hassio-ecoflow-setup" title="Home Assistant with hassio-ecoflow setup">Home Assistant with hassio-ecoflow setup<a> <br>
 Ecoflow River and Delta Max testing. <br>
 Research on communication of EcoFlow App and EcoFlow units to their servers. 
 ### !!!!!! Warning !!!!!

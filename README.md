@@ -35,7 +35,8 @@ Detailed reports of tested hardware.
 <a href="https://github.com/fogfon/Raspberry-Pi-Basic-Hotspot-Setup" title="Raspberry Pi basic Hotspot setup">Raspberry Pi basic Hotspot setup<a> <br>
 <a href="https://github.com/fogfon/Home-Assistant-with-hassio-ecoflow-setup" title="Home Assistant with hassio-ecoflow setup">Home Assistant with hassio-ecoflow setup<a> <br>
 <a href="https://github.com/fogfon/Research-home-assistant-with-EcoFlow-powerstation-s-/blob/main/README.md">Ecoflow River and Delta Max testing<a> <br>
-Research on communication of EcoFlow App and EcoFlow units and servers. 
+<a href="https://github.com/fogfon/Research-home-assistant-with-EcoFlow-powerstation-s-/blob/main/logcat_IOT_WIFI"> Research on EcoFlow App communication to EcoFlow unit<a> <br>
+Research on EcoFlow App communication to EcoFlow servers
 ### !!!!!! Warning !!!!!
 With latest firmware hassio-ecoflow integration does not work any longer for Delta Max and other EcoFlow devices. <br>
 If their decission remains, only bluetooth devices like Delta 2 and Delta Pro will (perhaps) work with hassio-ecoflow. <br>
